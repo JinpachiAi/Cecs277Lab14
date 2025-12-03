@@ -4,8 +4,8 @@ from check_input import get_int_range
 
 def main():
     """
-    construct a puppy object and then display a menu that allows the user to play with
-    or feed the puppy. Display the puppy’s reaction to the user’s choice. Repeat until the
+    constructs a puppy object and then displays a menu that allows the user to play with
+    or feed the puppy. Displays the puppy’s reaction to the user’s choice. Repeat until the
     user chooses to quit.
     """
     print("Congratulations on your new puppy!")
